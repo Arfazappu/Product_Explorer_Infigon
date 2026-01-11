@@ -83,9 +83,3 @@
 4. **Open your browser**
    
    Navigate to [http://localhost:3000](http://localhost:3000)
-
-5. **Build for production** (optional)
-   ```bash
-   npm run build
-   npm start
-   ```
